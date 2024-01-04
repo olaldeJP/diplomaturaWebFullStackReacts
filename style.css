@@ -1,0 +1,22 @@
+body{
+    font-family: 'Caveat', cursive;
+}
+.titutlo{
+    font-size: 60px;
+    color: #1638C4;
+ 
+}
+.box{
+    border: solid 2px #1638C4;
+    box-shadow: 4px 4px 5px rgb(3, 114, 178);
+    border-radius: 5px;
+    margin: 5px;
+    width: 30%;
+}
+
+.subrayado{
+    text-decoration: underline;
+}
+
+  /* column-count: 3;  separa el texto en columnas
+    column-gap: 10px;  gap entre las columnas              */
